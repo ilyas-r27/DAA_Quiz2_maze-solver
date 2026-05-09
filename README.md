@@ -1,20 +1,20 @@
-# MazeSolver — BFS, DFS, Dijkstra Visualizer
+# MazeSolver - BFS, DFS, Dijkstra Visualizer
 
 Interactive web application for visualizing pathfinding algorithms on randomly generated mazes.
 
-**DAA Quiz 2 — EF234405 Design & Analysis of Algorithms**  
+**DAA Quiz 2 - EF234405 Design & Analysis of Algorithms**  
 Institut Teknologi Sepuluh Nopember (ITS)
 
 ## Features
 
-- **Random Maze Generation** — Recursive backtracking algorithm creates perfect mazes
-- **Three Algorithms** — BFS (shortest path), DFS (depth exploration), Dijkstra (weighted shortest path)
-- **Step-by-Step Animation** — Watch algorithms explore the maze in real-time
-- **Weighted Terrain** — Mud (×3) and Water (×5) cells for Dijkstra
-- **Custom Start/End** — Click to place start and end points
-- **Speed Control** — Slow, Medium, Fast animation speeds
-- **Grid Size Control** — From 11×11 to 51×51
-- **Compare All** — Run all three algorithms and compare results side-by-side
+- **Random Maze Generation** - Recursive backtracking algorithm creates perfect mazes
+- **Three Algorithms** - BFS (shortest path), DFS (depth exploration), Dijkstra (weighted shortest path)
+- **Step-by-Step Animation** - Watch algorithms explore the maze in real-time
+- **Weighted Terrain** - Mud (×3) and Water (×5) cells for Dijkstra
+- **Custom Start/End** - Click to place start and end points
+- **Speed Control** - Slow, Medium, Fast animation speeds
+- **Grid Size Control** - From 11×11 to 51×51
+- **Compare All** - Run all three algorithms and compare results side-by-side
 
 ## Tech Stack
 
