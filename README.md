@@ -1,4 +1,4 @@
-# MazeSolver - BFS, DFS, Dijkstra Visualize
+# MazeSolver - BFS, DFS, Dijkstra Visualize e
 
 Interactive web application for visualizing pathfinding algorithms on randomly generated mazes.
 
